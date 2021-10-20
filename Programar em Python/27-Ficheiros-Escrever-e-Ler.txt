@@ -1,0 +1,2 @@
+Eu estou a escrever na primeira linha deste ficheiro.
+Agora estou a escrever na segunda linha.
