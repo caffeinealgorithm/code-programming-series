@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/S0bUVHt3LE4
+# Publicação: https://caffeinealgorithm.com/blog/20210920/mais-sobre-as-strings-em-python/
+
 string = 'Eu sou\n\tuma string.'
 
 print(len(string)) # 19

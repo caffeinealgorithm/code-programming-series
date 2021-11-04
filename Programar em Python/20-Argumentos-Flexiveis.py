@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/LhcLdqNjvpc
+# Publicação: https://caffeinealgorithm.com/blog/20211011/argumentos-flexiveis-em-python/
+
 def imprimirArgumentos(*argumentos):
   for argumento in argumentos:
     print('Argumento:', argumento)

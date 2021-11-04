@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/6a0ZhURjP6s
+# Publicação: https://caffeinealgorithm.com/blog/20211025/init-em-python/
+
 class Pessoa:
   def __init__(self, primeiroNome, ultimoNome, idade):
     self.primeiroNome = primeiroNome

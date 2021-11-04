@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/cAxkOgCkz9s
+# Publicação: https://caffeinealgorithm.com/blog/20210921/comentarios-em-python/
+
 # Eu sou um comentário.
 
 print('Eu sou uma string.')

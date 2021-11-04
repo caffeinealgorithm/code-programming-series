@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/fLeUijcIAiw
+# Publicação: https://caffeinealgorithm.com/blog/20210916/variaveis-em-python/
+
 inteiro = 10
 decimal = 10.5
 string = 'Eu sou uma string.'

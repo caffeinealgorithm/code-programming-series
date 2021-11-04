@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/HuvfFhMmsbI
+# Publicação: https://caffeinealgorithm.com/blog/20211015/modulos-em-python/
+
 # import math
 # from math import sqrt
 from math import *

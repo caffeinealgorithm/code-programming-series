@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/JzHlMtlohNE
+# Publicação: https://caffeinealgorithm.com/blog/20211022/classes-e-objetos-em-python/
+
 class Inimigo:
   vidas = 5
 

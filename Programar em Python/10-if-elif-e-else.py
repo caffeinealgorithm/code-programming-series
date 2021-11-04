@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/27pMZOoPRzk
+# Publicação: https://caffeinealgorithm.com/blog/20210924/if-elif-e-else-em-python/
+
 '''
   (if - se) condição for verdadeira:
     o código dentro do if é executado

@@ -1,3 +1,6 @@
+# YouTube: https://youtu.be/K6-_AwbMk34
+# Publicação: https://caffeinealgorithm.com/blog/20211012/variaveis-globais-e-locais-em-python/
+
 acesso = 'Global'
 
 def mudarAcesso():
