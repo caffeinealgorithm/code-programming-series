@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/Od8zRnsZIoE
-# Publicação: https://caffeinealgorithm.com/blog/20211008/argumentos-chave-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/argumentos-chave-em-python/
 
 def imprimirABC(a, b, c):
   print('Valor de a:', a)

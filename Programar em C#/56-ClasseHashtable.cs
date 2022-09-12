@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/QnhCVLqYcJM
-// Publicação: https://caffeinealgorithm.com/blog/20220121/classe-hashtable-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-hashtable-em-csharp/
 
 using System;
 using System.Collections;

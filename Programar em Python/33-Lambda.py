@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/0bSYL5vnh6k
-# Publicação: https://caffeinealgorithm.com/blog/20211028/lambda-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/lambda-em-python/
 
 '''
   def adicao(a, b, c):

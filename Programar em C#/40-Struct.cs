@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/tyvCf7CUEfg
-// Publicação: https://caffeinealgorithm.com/blog/20211230/struct-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/struct-em-csharp/
 
 using System;
 

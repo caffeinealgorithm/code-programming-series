@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/aD7U69fw9hQ
-// Publicação: https://caffeinealgorithm.com/blog/20220217/arrays-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/arrays-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

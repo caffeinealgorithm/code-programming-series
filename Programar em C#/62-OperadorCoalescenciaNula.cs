@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/s-X26LwvxC0
-// Publicação: https://caffeinealgorithm.com/blog/20220131/operador-de-coalescencia-nula-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/operador-de-coalescencia-nula-em-csharp/
 
 using System;
 

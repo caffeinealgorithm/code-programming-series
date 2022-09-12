@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/GQVf0VwJh9c
-// Publicação: https://caffeinealgorithm.com/blog/20220211/operadores-de-atribuicao-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-de-atribuicao-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/1D4afA8tvmk
-# Publicação: https://caffeinealgorithm.com/blog/20210929/ciclo-while-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/ciclo-while-em-python/
 
 '''
   while True:

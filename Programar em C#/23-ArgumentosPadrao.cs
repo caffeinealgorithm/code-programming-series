@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/9Dv8IR1Hy5U
-// Publicação: https://caffeinealgorithm.com/blog/20211206/argumentos-padrao-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/argumentos-padrao-em-csharp/
 
 using System;
 

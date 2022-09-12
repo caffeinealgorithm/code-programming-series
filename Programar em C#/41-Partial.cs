@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/xwk4Xx5-zO0
-// Publicação: https://caffeinealgorithm.com/blog/20211231/partial-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/partial-em-csharp/
 
 using System;
 

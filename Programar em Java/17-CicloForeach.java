@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/X8hVHwqEiKI
-// Publicação: https://caffeinealgorithm.com/blog/20220228/ciclo-foreach-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/ciclo-foreach-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

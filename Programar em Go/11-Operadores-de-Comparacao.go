@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/dvCuGh0SGv8
-// Publicação: https://caffeinealgorithm.com/blog/20220503/operadores-de-comparacao-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-de-comparacao-em-go/
 
 package main
 

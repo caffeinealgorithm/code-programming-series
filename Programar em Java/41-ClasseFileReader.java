@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/22Np9fJQv-E
-// Publicação: https://caffeinealgorithm.com/blog/20220401/classe-filereader-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-filereader-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

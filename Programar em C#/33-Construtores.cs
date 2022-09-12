@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/b65giOzFRYU
-// Publicação: https://caffeinealgorithm.com/blog/20211221/construtores-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/construtores-em-csharp/
 
 using System;
 

@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/9RrewsVO_ws
-// Publicação: https://caffeinealgorithm.com/blog/20220125/classe-queue-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-queue-em-csharp/
 
 using System;
 using System.Collections.Generic;

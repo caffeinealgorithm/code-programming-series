@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/d1Fp1_jjPsE
-// Publicação: https://caffeinealgorithm.com/blog/20220216/classe-scanner-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-scanner-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

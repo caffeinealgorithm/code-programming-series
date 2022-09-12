@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/9FNQUgfBUz8
-// Publicação: https://caffeinealgorithm.com/blog/20211220/classes-e-objetos-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classes-e-objetos-em-csharp/
 
 using System;
 

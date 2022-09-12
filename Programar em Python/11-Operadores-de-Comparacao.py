@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/hlTEpUAu9xg
-# Publicação: https://caffeinealgorithm.com/blog/20210927/operadores-de-comparacao-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/operadores-de-comparacao-em-python/
 
 x = 10
 y = 20

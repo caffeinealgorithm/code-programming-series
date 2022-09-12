@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/445d_X4N6OI
-// Publicação: https://caffeinealgorithm.com/blog/20220224/switch-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/switch-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

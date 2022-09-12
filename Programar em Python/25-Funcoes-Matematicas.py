@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/yA_QteaN0vs
-# Publicação: https://caffeinealgorithm.com/blog/20211018/funcoes-matematicas-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/funcoes-matematicas-em-python/
 
 from math import *
 

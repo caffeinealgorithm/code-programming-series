@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/Bxg4aC54Jgs
-// Publicação: https://caffeinealgorithm.com/blog/20220222/operadores-de-comparacao-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-de-comparacao-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

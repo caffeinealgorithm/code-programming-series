@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/gV9e6zsEO5M
-# Publicação: https://caffeinealgorithm.com/blog/20210917/operadores-de-atribuicao-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/operadores-de-atribuicao-em-python/
 
 x = 2
 

@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/2-dIbl35A_w
-// Publicação: https://caffeinealgorithm.com/blog/20211105/funcao-writeline-e-strings-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/funcao-writeline-e-strings-em-csharp/
 
 using System;
 

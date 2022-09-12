@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/x-xdi7NRJDs
-// Publicação: https://caffeinealgorithm.com/blog/20211108/operadores-aritmeticos-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-aritmeticos-em-csharp/
 
 using System;
 

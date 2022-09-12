@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/w7hXnuh5G2E
-// Publicação: https://caffeinealgorithm.com/blog/20220505/for-loop-in-go/
+// Publicação: https://caffeinealgorithm.com/blog/for-loop-in-go/
 
 package main
 

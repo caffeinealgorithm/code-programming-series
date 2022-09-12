@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/IyDdjn1s3Gw
-// Publicação: https://caffeinealgorithm.com/blog/20220221/if-else-if-e-else-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/if-else-if-e-else-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

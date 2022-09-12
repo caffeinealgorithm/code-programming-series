@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/e4N5AHTSKG0
-# Publicação: https://caffeinealgorithm.com/blog/20211027/multipla-heranca-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/multipla-heranca-em-python/
 
 class Pai:
   altura = 'Entre 180 e 190 centímetros'

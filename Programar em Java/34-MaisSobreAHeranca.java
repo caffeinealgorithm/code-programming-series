@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/ae31OWVVtNw
-// Publicação: https://caffeinealgorithm.com/blog/20220323/mais-sobre-a-heranca-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/mais-sobre-a-heranca-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

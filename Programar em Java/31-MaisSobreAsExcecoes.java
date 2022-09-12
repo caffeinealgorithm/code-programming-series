@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/b40p72IG4-8
-// Publicação: https://caffeinealgorithm.com/blog/20220318/mais-sobre-as-excecoes-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/mais-sobre-as-excecoes-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

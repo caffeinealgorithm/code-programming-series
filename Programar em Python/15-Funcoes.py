@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/H8M_73ybl5Y
-# Publicação: https://caffeinealgorithm.com/blog/20211001/funcoes-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/funcoes-em-python/
 
 def dadosPessoais():
   print('Nome: Nelson Silva')

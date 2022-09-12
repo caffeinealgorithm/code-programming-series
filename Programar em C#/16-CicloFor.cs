@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/9h8vh0r3fwk
-// Publicação: https://caffeinealgorithm.com/blog/20211124/ciclo-for-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/ciclo-for-em-csharp/
 
 using System;
 

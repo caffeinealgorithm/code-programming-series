@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/4xldTbYwVcM
-// Publicação: https://caffeinealgorithm.com/blog/20220426/mais-sobre-as-strings-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/mais-sobre-as-strings-em-go/
 
 package main
 

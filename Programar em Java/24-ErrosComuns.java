@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/HCclW4TLSyY
-// Publicação: https://caffeinealgorithm.com/blog/20220309/erros-comuns-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/erros-comuns-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

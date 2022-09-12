@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/kic0anFXVUs
-// Publicação: https://caffeinealgorithm.com/blog/20220103/abstract-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/abstract-em-csharp/
 
 using System;
 using System.Collections.Generic;

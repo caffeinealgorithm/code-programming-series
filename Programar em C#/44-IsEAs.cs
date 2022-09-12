@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/2kgNJVpXB40
-// Publicação: https://caffeinealgorithm.com/blog/20220105/is-e-as-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/is-e-as-em-csharp/
 
 using System;
 

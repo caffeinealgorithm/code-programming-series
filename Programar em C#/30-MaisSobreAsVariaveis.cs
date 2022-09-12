@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/uMbksPhe4m0
-// Publicação: https://caffeinealgorithm.com/blog/20211216/mais-sobre-as-variaveis-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/mais-sobre-as-variaveis-em-csharp/
 
 using System;
 

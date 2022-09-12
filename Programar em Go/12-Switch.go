@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/-MckZGlZX1A
-// Publicação: https://caffeinealgorithm.com/blog/20220504/switch-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/switch-em-go/
 
 package main
 

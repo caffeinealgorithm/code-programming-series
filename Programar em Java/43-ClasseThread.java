@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/Crk467wQmQg
-// Publicação: https://caffeinealgorithm.com/blog/20220405/classe-thread-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-thread-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

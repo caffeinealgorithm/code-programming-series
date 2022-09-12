@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/KMHQmYq6Kms
-// Publicação: https://caffeinealgorithm.com/blog/20211122/operador-ternario-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/operador-ternario-em-csharp/
 
 using System;
 

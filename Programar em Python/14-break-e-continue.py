@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/bh0yUxxWBZE
-# Publicação: https://caffeinealgorithm.com/blog/20210930/break-e-continue-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/break-e-continue-em-python/
 
 animais = ['Cão', 'Gato', 'Galinha', 'Coelho', 'Leão']
 contador = 0

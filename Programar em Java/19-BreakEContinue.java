@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/Wbe6-a8go0o
-// Publicação: https://caffeinealgorithm.com/blog/20220302/break-e-continue-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/break-e-continue-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

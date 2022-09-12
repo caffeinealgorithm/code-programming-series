@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/tF6U5grcYCE
-// Publicação: https://caffeinealgorithm.com/blog/20220310/arrays-multidimensionais-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/arrays-multidimensionais-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

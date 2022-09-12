@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/7cVfMDDAk64
-# Publicação: https://caffeinealgorithm.com/blog/20211026/heranca-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/heranca-em-python/
 
 class Pai:
   ultimoNome = 'Silva'

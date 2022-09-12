@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/4ULTUP1RWSM
-# Publicação: https://caffeinealgorithm.com/blog/20211021/excecoes-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/excecoes-em-python/
 
 try:
   lerFicheiro = open('Ficheiros-Escrever-e-Ler.txt', 'r')

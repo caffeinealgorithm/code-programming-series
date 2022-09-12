@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/QjvCyY5a2BM
-// Publicação: https://caffeinealgorithm.com/blog/20211224/propriedades-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/propriedades-em-csharp/
 
 using System;
 

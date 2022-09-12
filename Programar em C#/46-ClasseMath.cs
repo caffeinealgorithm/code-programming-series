@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/ZCr9-qfctoU
-// Publicação: https://caffeinealgorithm.com/blog/20220107/classe-math-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-math-em-csharp/
 
 using System;
 

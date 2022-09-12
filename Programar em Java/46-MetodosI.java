@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/TAKYXCKl4VE
-// Publicação: https://caffeinealgorithm.com/blog/20220408/metodos-i-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/metodos-i-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

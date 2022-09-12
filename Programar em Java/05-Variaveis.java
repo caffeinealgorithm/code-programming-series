@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/Pw2Tsh8CAaE
-// Publicação: https://caffeinealgorithm.com/blog/20220210/variaveis-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/variaveis-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

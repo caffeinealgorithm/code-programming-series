@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/Uz-wyfqr9yU
-// Publicação: https://caffeinealgorithm.com/blog/20211222/modificadores-de-acesso-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/modificadores-de-acesso-em-csharp/
 
 using System;
 

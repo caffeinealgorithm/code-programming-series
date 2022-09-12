@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/nLboEkX1VNI
-// Publicação: https://caffeinealgorithm.com/blog/20220126/metodos-i-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/metodos-i-em-csharp/
 
 using System;
 using System.Text.RegularExpressions;

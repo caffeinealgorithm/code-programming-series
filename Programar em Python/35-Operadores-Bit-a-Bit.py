@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/gyBY7AcVPk4
-# Publicação: https://caffeinealgorithm.com/blog/20211102/operadores-bit-a-bit-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/operadores-bit-a-bit-em-python/
 
 x = 60 # 00111100
 y = 13 # 00001101

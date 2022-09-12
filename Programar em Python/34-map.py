@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/hCaynUtCvEw
-# Publicação: https://caffeinealgorithm.com/blog/20211029/map-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/map-em-python/
 
 '''
   print(pow(2, 12))

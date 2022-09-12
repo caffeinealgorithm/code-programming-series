@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/VFwjISUooB4
-// Publicação: https://caffeinealgorithm.com/blog/20220218/listas-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/listas-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

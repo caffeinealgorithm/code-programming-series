@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/lbgVj7NBFAg
-// Publicação: https://caffeinealgorithm.com/blog/20220201/goto-e-region-endregion-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/goto-e-region-endregion-em-csharp/
 
 #region Bibliotecas
 using System;

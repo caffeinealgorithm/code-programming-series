@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/x7FJnvDzVtg
-// Publicação: https://caffeinealgorithm.com/blog/20211118/if-else-if-e-else-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/if-else-if-e-else-em-csharp/
 
 using System;
 

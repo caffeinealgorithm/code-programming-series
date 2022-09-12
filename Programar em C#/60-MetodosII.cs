@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/r9h6UzvoRCE
-// Publicação: https://caffeinealgorithm.com/blog/20220127/metodos-ii-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/metodos-ii-em-csharp/
 
 using System;
 

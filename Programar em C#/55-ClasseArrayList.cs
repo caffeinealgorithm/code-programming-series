@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/BKogMn09eBo
-// Publicação: https://caffeinealgorithm.com/blog/20220120/classe-arraylist-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-arraylist-em-csharp/
 
 using System;
 using System.Collections;

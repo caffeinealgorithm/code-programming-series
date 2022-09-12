@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/mKXawyHLewc
-// Publicação: https://caffeinealgorithm.com/blog/20211110/operadores-de-atribuicao-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-de-atribuicao-em-csharp/
 
 using System;
 

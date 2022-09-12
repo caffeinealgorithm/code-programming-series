@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/R-ueRH4ySug
-// Publicação: https://caffeinealgorithm.com/blog/20220311/dicionarios-map-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/dicionarios-map-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

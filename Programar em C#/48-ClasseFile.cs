@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/jW8uXGlFwZo
-// Publicação: https://caffeinealgorithm.com/blog/20220111/classe-file-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-file-em-csharp/
 
 using System;
 using System.IO;

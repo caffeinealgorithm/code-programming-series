@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/cCq9DRRNX5A
-// Publicação: https://caffeinealgorithm.com/blog/20220419/funcao-print-e-strings-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/funcao-print-e-strings-em-go/
 
 package main
 

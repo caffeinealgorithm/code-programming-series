@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/UisnZCGsAKE
-// Publicação: https://caffeinealgorithm.com/blog/20220422/operadores-de-atribuicao-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-de-atribuicao-em-go/
 
 package main
 

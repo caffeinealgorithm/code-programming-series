@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/ZsiTd23CfUs
-// Publicação: https://caffeinealgorithm.com/blog/20220325/abstract-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/abstract-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

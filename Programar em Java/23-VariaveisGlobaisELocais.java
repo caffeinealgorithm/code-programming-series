@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/hgVFRjqnSPM
-// Publicação: https://caffeinealgorithm.com/blog/20220308/variaveis-globais-e-locais-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/variaveis-globais-e-locais-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/USlZetbXrA
-// Publicação: https://caffeinealgorithm.com/blog/20220209/operadores-aritmeticos-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-aritmeticos-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

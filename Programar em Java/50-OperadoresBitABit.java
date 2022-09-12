@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/f_RICgMykc8
-// Publicação: https://caffeinealgorithm.com/blog/20220414/operadores-bit-a-bit-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-bit-a-bit-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

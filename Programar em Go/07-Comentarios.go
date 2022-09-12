@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/LUq1G_MLY84
-// Publicação: https://caffeinealgorithm.com/blog/20220427/comentarios-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/comentarios-em-go/
 
 package main
 

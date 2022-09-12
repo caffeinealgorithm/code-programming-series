@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/Ux328aoXQYM
-# Publicação: https://caffeinealgorithm.com/blog/20211014/dicionarios-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/dicionarios-em-python/
 
 idades = {'Nelson Silva': 25, 'Larissa Fernandes': 37, 'Pedro Henrique': 52, 'Raquel Soares': 68}
 

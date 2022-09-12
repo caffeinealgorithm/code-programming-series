@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/_d2WykDSZyM
-// Publicação: https://caffeinealgorithm.com/blog/20220330/classe-file-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-file-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

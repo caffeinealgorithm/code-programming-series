@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/yXHX-nA4Gsk
-// Publicação: https://caffeinealgorithm.com/blog/20220117/classe-process-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-process-em-csharp/
 
 using System;
 using System.Diagnostics;

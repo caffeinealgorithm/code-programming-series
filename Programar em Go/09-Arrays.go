@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/PrK3pN6geso
-// Publicação: https://caffeinealgorithm.com/blog/20220429/arrays-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/arrays-em-go/
 
 package main
 

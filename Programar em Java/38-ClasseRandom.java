@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/-ka_3iD3V4Q
-// Publicação: https://caffeinealgorithm.com/blog/20220329/classe-random-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-random-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/BrpYkREnwfM
-// Publicação: https://caffeinealgorithm.com/blog/20220202/lambda-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/lambda-em-csharp/
 
 using System;
 using System.Linq;

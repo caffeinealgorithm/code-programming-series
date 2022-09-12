@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/7nJbm-CN2XY
-// Publicação: https://caffeinealgorithm.com/blog/20220106/classe-convert-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-convert-em-csharp/
 
 using System;
 

@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/0I7MyvAkBK0
-// Publicação: https://caffeinealgorithm.com/blog/20220324/interfaces-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/interfaces-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

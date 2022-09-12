@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/bbXsVSa952Y
-// Publicação: https://caffeinealgorithm.com/blog/20220104/delegate-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/delegate-em-csharp/
 
 using System;
 

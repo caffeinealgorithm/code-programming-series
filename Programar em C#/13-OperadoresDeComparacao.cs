@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/Vg8cCo5bIic
-// Publicação: https://caffeinealgorithm.com/blog/20211119/operadores-de-comparacao-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-de-comparacao-em-csharp/
 
 using System;
 

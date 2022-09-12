@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/kDKbnI-opqE
-// Publicação: https://caffeinealgorithm.com/blog/20211227/heranca-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/heranca-em-csharp/
 
 using System;
 

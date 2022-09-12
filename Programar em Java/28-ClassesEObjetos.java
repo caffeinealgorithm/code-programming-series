@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/ktbsyAHPBv0
-// Publicação: https://caffeinealgorithm.com/blog/20220315/classes-e-objetos-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classes-e-objetos-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

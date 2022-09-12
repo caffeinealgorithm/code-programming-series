@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/kfCzIPNX2CA
-// Publicação: https://caffeinealgorithm.com/blog/20220407/classe-stack-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-stack-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

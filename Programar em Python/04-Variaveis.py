@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/fLeUijcIAiw
-# Publicação: https://caffeinealgorithm.com/blog/20210916/variaveis-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/variaveis-em-python/
 
 inteiro = 10
 decimal = 10.5

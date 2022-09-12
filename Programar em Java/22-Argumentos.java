@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/k76K3UraNhU
-// Publicação: https://caffeinealgorithm.com/blog/20220307/argumentos-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/argumentos-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

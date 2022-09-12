@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/3HDVH40ZR2w
-// Publicação: https://caffeinealgorithm.com/blog/20220428/input-do-utilizador-bufio-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/input-do-utilizador-bufio-em-go/
 
 package main
 

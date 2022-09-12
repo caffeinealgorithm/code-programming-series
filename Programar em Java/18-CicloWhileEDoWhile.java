@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/KxWKMHwKJVc
-// Publicação: https://caffeinealgorithm.com/blog/20220301/ciclo-while-e-do-while-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/ciclo-while-e-do-while-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

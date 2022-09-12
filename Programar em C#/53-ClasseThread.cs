@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/N1ZSoxB80B0
-// Publicação: https://caffeinealgorithm.com/blog/20220118/classe-thread-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-thread-em-csharp/
 
 using System;
 using System.Threading;

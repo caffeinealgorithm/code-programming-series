@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/BI1mwKihlJI
-// Publicação: https://caffeinealgorithm.com/blog/20220303/funcoes-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/funcoes-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

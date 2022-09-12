@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/iv2-0xW8DpU
-// Publicação: https://caffeinealgorithm.com/blog/20211214/arrays-multidimensionais-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/arrays-multidimensionais-em-csharp/
 
 using System;
 

@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/zTZxnegO2Ro
-// Publicação: https://caffeinealgorithm.com/blog/20211213/erros-comuns-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/erros-comuns-em-csharp/
 
 using System;
 

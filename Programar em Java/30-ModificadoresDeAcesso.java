@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/e19jPpY8JfA
-// Publicação: https://caffeinealgorithm.com/blog/20220317/modificadores-de-acesso-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/modificadores-de-acesso-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

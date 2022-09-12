@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/PUpojD6_Swo
-// Publicação: https://caffeinealgorithm.com/blog/20220420/operadores-aritmeticos-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-aritmeticos-em-go/
 
 package main
 

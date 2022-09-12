@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/Xh95YJxeAnI
-// Publicação: https://caffeinealgorithm.com/blog/20220413/lambda-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/lambda-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

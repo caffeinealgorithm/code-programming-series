@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/pKGz-CCpye8
-// Publicação: https://caffeinealgorithm.com/blog/20211111/mais-sobre-as-strings-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/mais-sobre-as-strings-em-csharp/
 
 using System;
 

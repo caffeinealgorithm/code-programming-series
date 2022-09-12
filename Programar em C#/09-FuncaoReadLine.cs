@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/-C6_spcZYAs
-// Publicação: https://caffeinealgorithm.com/blog/20211115/funcao-readline-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/funcao-readline-em-csharp/
 
 using System;
 

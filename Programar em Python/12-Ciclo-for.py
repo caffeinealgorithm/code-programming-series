@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/NHn4AzcKLeA
-# Publicação: https://caffeinealgorithm.com/blog/20210928/ciclo-for-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/ciclo-for-em-python/
 
 organizacao = 'Caffeine Algorithm'
 cores = ['Azul', 'Verde', 'Amarelo', 'Vermelho', 'Laranja']

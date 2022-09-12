@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/rCUwMA4JHHk
-// Publicação: https://caffeinealgorithm.com/blog/20220223/operador-ternario-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/operador-ternario-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

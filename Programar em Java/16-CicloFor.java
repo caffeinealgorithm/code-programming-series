@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/aKgPE8bar_Y
-// Publicação: https://caffeinealgorithm.com/blog/20220225/ciclo-for-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/ciclo-for-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

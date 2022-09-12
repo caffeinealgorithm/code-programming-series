@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/dWk0XVIto3w
-# Publicação: https://caffeinealgorithm.com/blog/20211007/argumentos-padrao-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/argumentos-padrao-em-python/
 
 def estadoDaPorta(estado = True):
   if estado:

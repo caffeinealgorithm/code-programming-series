@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/61T_m11jCWs
-// Publicação: https://caffeinealgorithm.com/blog/20211130/funcoes-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/funcoes-em-csharp/
 
 using System;
 

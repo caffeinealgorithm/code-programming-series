@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/Gw6RYAu0yOo
-// Publicação: https://caffeinealgorithm.com/blog/20211217/excecoes-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/excecoes-em-csharp/
 
 using System;
 

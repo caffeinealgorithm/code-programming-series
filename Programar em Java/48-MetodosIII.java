@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/hqICEMabCZQ
-// Publicação: https://caffeinealgorithm.com/blog/20220412/metodos-iii-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/metodos-iii-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

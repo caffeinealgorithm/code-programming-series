@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/8wAijtTtazs
-// Publicação: https://caffeinealgorithm.com/blog/20220114/classe-path-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-path-em-csharp/
 
 using System;
 using System.IO;

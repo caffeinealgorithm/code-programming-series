@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/8q8-qNsEZGs
-// Publicação: https://caffeinealgorithm.com/blog/20211215/dicionarios-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/dicionarios-em-csharp/
 
 using System;
 using System.Collections.Generic;

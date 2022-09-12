@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/skX2jrCiqdI
-// Publicação: https://caffeinealgorithm.com/blog/20220215/comentarios-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/comentarios-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/GZblJ-SqU_s
-// Publicação: https://caffeinealgorithm.com/blog/20220208/funcao-println-e-strings-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/funcao-println-e-strings-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

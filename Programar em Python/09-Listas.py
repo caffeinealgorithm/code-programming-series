@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/YPjiLWtky60
-# Publicação: https://caffeinealgorithm.com/blog/20210923/listas-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/listas-em-python/
 
 lista = ['Eu sou uma string.', 10, 10.5, True, ['A', 'B', 'C']]
 

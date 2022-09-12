@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/8NxhJZz7UmU
-// Publicação: https://caffeinealgorithm.com/blog/20220110/classe-random-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-random-em-csharp/
 
 using System;
 

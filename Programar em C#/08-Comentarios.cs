@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/CFrR5_JH6Nw
-// Publicação: https://caffeinealgorithm.com/blog/20211112/comentarios-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/comentarios-em-csharp/
 
 using System;
 

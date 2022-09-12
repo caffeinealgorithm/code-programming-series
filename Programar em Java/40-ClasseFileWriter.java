@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/iohYifid7pM
-// Publicação: https://caffeinealgorithm.com/blog/20220330/classe-filewriter-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-filewriter-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

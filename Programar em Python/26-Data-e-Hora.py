@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/pT6gLZZOoIw
-# Publicação: https://caffeinealgorithm.com/blog/20211019/data-e-hora-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/data-e-hora-em-python/
 
 # from calendar import *
 from time import *

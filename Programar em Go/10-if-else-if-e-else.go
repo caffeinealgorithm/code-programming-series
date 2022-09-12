@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/B8Lg8TbighI
-// Publicação: https://caffeinealgorithm.com/blog/20220502/if-else-if-and-else-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/if-else-if-and-else-em-go/
 
 package main
 

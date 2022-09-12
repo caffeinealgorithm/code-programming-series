@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/-WPMAO60yQ8
-// Publicação: https://caffeinealgorithm.com/blog/20211202/return-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/return-em-csharp/
 
 using System;
 

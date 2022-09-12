@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/Us3VJyBFbbY
-// Publicação: https://caffeinealgorithm.com/blog/20211116/arrays-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/arrays-em-csharp/
 
 using System;
 

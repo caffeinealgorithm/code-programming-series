@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/b4bLQ0qf5gY
-// Publicação: https://caffeinealgorithm.com/blog/20211129/break-e-continue-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/break-e-continue-em-csharp/
 
 using System;
 using System.Collections.Generic;

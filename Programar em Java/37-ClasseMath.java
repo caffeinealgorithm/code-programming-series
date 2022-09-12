@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/cpzjF8rXdI0
-// Publicação: https://caffeinealgorithm.com/blog/20220328/classe-math-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-math-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

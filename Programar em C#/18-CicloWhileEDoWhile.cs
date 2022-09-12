@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/wLxv9_cotcE
-// Publicação: https://caffeinealgorithm.com/blog/20211126/ciclo-while-e-do-while-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/ciclo-while-e-do-while-em-csharp/
 
 using System;
 

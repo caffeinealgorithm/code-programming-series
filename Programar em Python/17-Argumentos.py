@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/rYJermgsgKk
-# Publicação: https://caffeinealgorithm.com/blog/20211006/argumentos-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/argumentos-em-python/
 
 def dadosPessoais(nome, idade, nacionalidade):
   print('Nome:', nome)

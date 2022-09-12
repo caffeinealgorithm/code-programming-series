@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/lrIT6rpboVg
-# Publicação: https://caffeinealgorithm.com/blog/20210915/operadores-aritmeticos-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/operadores-aritmeticos-em-python/
 
 print('Adição:', 10 + 10) # 20
 print('Subtração:', 10.5 - 5.5 - 4.5) # 0.5

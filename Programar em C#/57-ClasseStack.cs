@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/AIxTT2P-5Dc
-// Publicação: https://caffeinealgorithm.com/blog/20220124/classe-stack-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-stack-em-csharp/
 
 using System;
 using System.Collections.Generic;

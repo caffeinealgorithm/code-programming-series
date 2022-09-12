@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/NpjrizaL77w
-// Publicação: https://caffeinealgorithm.com/blog/20220113/classe-streamreader-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-streamreader-em-csharp/
 
 using System;
 using System.IO;

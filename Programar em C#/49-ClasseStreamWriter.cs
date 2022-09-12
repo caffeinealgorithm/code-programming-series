@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/7Hjm23B-quw
-// Publicação: https://caffeinealgorithm.com/blog/20220112/classe-streamwriter-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-streamwriter-em-csharp/
 
 using System.Collections.Generic;
 using System.IO;

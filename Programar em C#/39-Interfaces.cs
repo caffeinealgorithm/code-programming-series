@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/mPUUj1xwe7U
-// Publicação: https://caffeinealgorithm.com/blog/20211229/interfaces-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/interfaces-em-csharp/
 
 using System;
 

@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/rd4_ShKKqAo
-// Publicação: https://caffeinealgorithm.com/blog/20220404/classe-process-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-process-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

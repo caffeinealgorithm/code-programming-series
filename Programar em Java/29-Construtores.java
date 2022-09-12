@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/vZjw1DbKVsY
-// Publicação: https://caffeinealgorithm.com/blog/20220316/construtores-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/construtores-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

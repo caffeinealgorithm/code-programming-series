@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/27pMZOoPRzk
-# Publicação: https://caffeinealgorithm.com/blog/20210924/if-elif-e-else-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/if-elif-e-else-em-python/
 
 '''
   (if - se) condição for verdadeira:

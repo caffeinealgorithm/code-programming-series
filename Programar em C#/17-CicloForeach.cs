@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/seMBMqxe8KA
-// Publicação: https://caffeinealgorithm.com/blog/20211125/ciclo-foreach-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/ciclo-foreach-em-csharp/
 
 using System;
 using System.Collections.Generic;

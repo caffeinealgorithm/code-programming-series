@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/Vk0V-iw_LWo
-// Publicação: https://caffeinealgorithm.com/blog/20220214/mais-sobre-as-strings-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/mais-sobre-as-strings-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

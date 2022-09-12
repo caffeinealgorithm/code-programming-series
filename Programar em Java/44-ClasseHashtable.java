@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/ZqsM5Ay_PgA
-// Publicação: https://caffeinealgorithm.com/blog/20220406/classe-hashtable-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/classe-hashtable-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

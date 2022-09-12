@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/DU1TJ_QGS_s
-// Publicação: https://caffeinealgorithm.com/blog/20220119/classe-debug-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/classe-debug-em-csharp/
 
 using System.Diagnostics;
 

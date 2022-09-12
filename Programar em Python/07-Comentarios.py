@@ -1,5 +1,5 @@
 # YouTube: https://youtu.be/cAxkOgCkz9s
-# Publicação: https://caffeinealgorithm.com/blog/20210921/comentarios-em-python/
+# Publicação: https://caffeinealgorithm.com/blog/comentarios-em-python/
 
 # Eu sou um comentário.
 

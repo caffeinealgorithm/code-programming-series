@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/M9PXEZdgm48
-// Publicação: https://caffeinealgorithm.com/blog/20220321/propriedades-em-java/
+// Publicação: https://caffeinealgorithm.com/blog/propriedades-em-java/
 
 package com.caffeinealgorithm.programaremjava;
 

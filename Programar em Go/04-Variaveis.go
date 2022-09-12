@@ -1,5 +1,5 @@
 // YouTube: https://youtu.be/DrlftMQf8jw
-// Publicação: https://caffeinealgorithm.com/blog/20220421/variaveis-em-go/
+// Publicação: https://caffeinealgorithm.com/blog/variaveis-em-go/
 
 package main
 

@@ -1,5 +1,5 @@
 ﻿// YouTube: https://youtu.be/JMpv0Yt32AA
-// Publicação: https://caffeinealgorithm.com/blog/20220203/operadores-bit-e-bit-em-csharp/
+// Publicação: https://caffeinealgorithm.com/blog/operadores-bit-e-bit-em-csharp/
 
 using System;
 
